@@ -1,1 +1,2 @@
-# Sprint_1
+# Study_Yandex
+First course
